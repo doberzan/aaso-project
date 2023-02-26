@@ -1,0 +1,6 @@
+.vscode/
+*.exe
+*.wav
+!Snare_Sample16.wav
+!Snare_Recording16.wav
+test.cpp
