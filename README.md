@@ -6,7 +6,7 @@
 
 ## Terminology
 
-SampleRate: Sampled bits per second -> into an array.
+SampleRate: Sampled bits per second -> into an array.  
 Bitdepth: The higher the better
 
 ## Splicing Two Audio arrays
